@@ -1,0 +1,123 @@
+body {
+  background-color: #18b0b0;
+  font-family: 'Horev', serif;
+  color:#ffe9c5;
+  text-align: center;
+  font-size: 50px;
+  opacity: 0.85;
+  letter-spacing: 2px;
+
+}
+
+h2 {
+ font-size: 100px;
+ line-height: 0.7;
+}
+
+
+hr {
+  border-style: none;
+  border-top: 10px dotted;
+  color:#ffe277;
+  width: 5%;
+}
+
+/**************************class selector***************/
+
+.images {
+  margin-right: 0.5;
+  line-height: 1.5;
+}
+
+.title:hover{
+  color: #eb6383;
+}
+
+.title {
+  margin-bottom:30px;
+  letter-spacing: 2px;
+}
+
+
+.no{
+  text-decoration:line-through;
+}
+
+.change{
+  font-size: 80px;
+  color: #4a47a3;
+}
+
+.grow{
+  font-size:100px;
+  color:#ffe277;
+
+}
+
+.big{
+  font-size: 120px;
+  color:#d9455f ;
+}
+
+.better{
+  text-decoration: underline;
+}
+
+.slut{
+  margin-left: 0.5;
+}
+.brahot{
+  font-size: 40px;
+}
+
+.bigface{
+  margin-right: 70px;
+}
+
+.gif{
+height: 300px;
+width: 300px;
+}
+
+.wishes:hover {
+  color:#eb6383;
+}
+
+.tovim{
+    color:#95389e;
+    font-size: 80px;
+}
+
+.niflaim{
+    color: #084177;
+    font-size: 110px;
+}
+
+.shefa{
+  font-size: 100px;
+  color:#95389e;
+}
+
+.tov{
+  font-size: 90px;
+}
+
+.shlemut{
+  font-size: 100px;
+  color: #084177;
+}
+
+.ahava{
+  font-size: 110px;
+    color:#f40552;
+}
+
+.hagdarot{
+  text-decoration:line-through;
+
+}
+
+.haver{
+    font-size: 90px;
+    text-decoration: underline;
+}
